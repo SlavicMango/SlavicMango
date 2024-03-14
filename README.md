@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SlavicMango
 - 👀 I’m interested in C++ programing and gaming
 - 🌱 I’m currently learning C++, HTML and CSS
-- 📫 How to reach me unturnedandtf2lover@gmail.com
+- 📫 How to reach me mikipro260@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
